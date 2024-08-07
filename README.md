@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @chvtz from Poland
+- 👋 Hi, I'm @chvtz from Poland,
 - 👀 I'm interested in Java for creating Minecraft plugins.
 - 🌱 This is why I would like to learn Java! 
 
