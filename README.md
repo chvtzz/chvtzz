@@ -1,9 +1,9 @@
-- 👋 Cześć, jestem @chvtzz
-- 👀 Interesuję się językiem Java do tworzenia pluginów Minecraft.
-- 🌱 Z tego powodu również się go uczę!
+- 👋 Hi, I'm @chvtz from Poland
+- 👀 I'm interested in Java for creating Minecraft plugins.
+- 🌱 This is why I would like to learn Java! 
 
 
-- 🕧 Rozpoczęcie nauki Java: 07.08.2024.
+- 🕧 I started learning Java: 07/08/2024.
 
 <!---
 chvtzz/chvtzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
